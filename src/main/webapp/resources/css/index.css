@@ -11,7 +11,7 @@
 /*<!-- banner -->*/
 .banner{background: url(../images/banner_bg.jpg) center no-repeat;}
 .banner_cont{width: 1190px;margin:0 auto;}
-.top_share{bottom: -40px;left: 0;width: 100%;background: url(../images/share_bg.png) center no-repeat;height: 40px;}
+.top_share{bottom: -39px;left: 0;width: 100%;background: url(../images/share_bg.png) center no-repeat;height: 40px;}
 .share_cont{text-align: right;background: url(../images/share_cont_bg.png) no-repeat;}
 .share_cont span{display: inline-block;vertical-align: middle;padding:9px;}
 .share_cont span:last-child{margin-right:25px;}
