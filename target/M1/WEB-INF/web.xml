@@ -45,7 +45,7 @@
             <param-value>classpath:spring-mvc.xml</param-value>  <!-- 自定义spring配置文件名 -->
         </init-param>
         <load-on-startup>1</load-on-startup>
-        <async-supported>true</async-supported>  
+        <async-supported>true</async-supported>
     </servlet>
     <servlet-mapping>
         <servlet-name>SpringMVC</servlet-name>
