@@ -17,7 +17,7 @@ color:#fff}
 color:#fff}
 section, article, aside, header, footer, nav, dialog, figure{display: block;}
 .clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
-.clearfix{*+height:1%;}
+.clearfix{*+height:0.5%;}
 .dib{display: inline-block;*display:inline;zoom:1;}
 .pr{position: relative;z-index: 0;}
 .pa{position: absolute;}
