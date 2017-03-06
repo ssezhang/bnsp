@@ -22,10 +22,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="bnsp" />
         <module name="M1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="bnsp" target="1.5" />
       <module name="M1" target="1.5" />
     </bytecodeTargetLevel>
   </component>

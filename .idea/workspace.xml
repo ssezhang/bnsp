@@ -2,21 +2,163 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebb22d15-2f28-4d92-aedb-43cfa175dbcc" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/classes/applicationContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/classes/log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/classes/spring-mvc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/activation-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/commons-codec-1.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/commons-dbcp-1.2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/commons-io-2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/commons-logging-1.1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/commons-pool-1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/fastjson-1.1.41.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/jackson-core-asl-1.9.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/javaee-api-7.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/javax.mail-1.5.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/log4j-1.2.17.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/mybatis-3.2.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/mybatis-spring-1.2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/mysql-connector-java-5.1.30.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/slf4j-api-1.7.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/slf4j-log4j12-1.7.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/spring-aop-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/spring-beans-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/spring-context-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/spring-context-support-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/spring-core-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/spring-expression-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/spring-jdbc-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/spring-oxm-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/spring-test-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/spring-tx-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/spring-web-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/lib/spring-webmvc-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/fazhan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/jiameng.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/jiameng2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/jishu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/news.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/product.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/product_info.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/css/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/IMG_5386.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/IMG_5387.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/b1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/bainianlogo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/bainianlogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/banner2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/banner_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/biaochi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/chanpin.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/chanpin1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/dianhua.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/dx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/erweima.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/fadajing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/fangda.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/footer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/hcont_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/head_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/heng.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/icon1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/icon2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/jiameng.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/jm_2_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/left.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/left2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/left2_on.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/left3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/left_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/left_on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/licheng_img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/licheng_on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/lx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/map.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/more1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/nav_on.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/nav_on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/news.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/news1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/pro1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/qq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/right2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/right2_on.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/right3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/right_on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/rongyu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/rongyu11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/rongyu2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/rongyu3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/rongyu_cont.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/rongyu_title.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/sanjiao.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/sanjiao1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/share_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/share_cont_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/shebei.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/shebei1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/shebei2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/shebei3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/sub_navon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/team1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/title1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/title2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/v1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/v2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/video.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/video1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/video_cont.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/weibo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/weixin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/x2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/xia2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/youshi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/youshi_title.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/ys_cont.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/zhezhao.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/zhezhao1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/zhezhao_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/未标题-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/images/未标题-4(1).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/js/area.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/js/jquery.SuperSlide.2.1.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/js/jquery.flexslider.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/resources/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/shebei.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/team.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/team_info.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/wenhua.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/M1/zhuce.jsp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/about.html" afterPath="$PROJECT_DIR$/src/main/webapp/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/contact.html" afterPath="$PROJECT_DIR$/src/main/webapp/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/fazhan.html" afterPath="$PROJECT_DIR$/src/main/webapp/fazhan.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/jiameng.html" afterPath="$PROJECT_DIR$/src/main/webapp/jiameng.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/jiameng2.html" afterPath="$PROJECT_DIR$/src/main/webapp/jiameng2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/jishu.html" afterPath="$PROJECT_DIR$/src/main/webapp/jishu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/news.html" afterPath="$PROJECT_DIR$/src/main/webapp/news.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/product.html" afterPath="$PROJECT_DIR$/src/main/webapp/product.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/product_info.html" afterPath="$PROJECT_DIR$/src/main/webapp/product_info.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/shebei.html" afterPath="$PROJECT_DIR$/src/main/webapp/shebei.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/team.html" afterPath="$PROJECT_DIR$/src/main/webapp/team.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/team_info.html" afterPath="$PROJECT_DIR$/src/main/webapp/team_info.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/wenhua.html" afterPath="$PROJECT_DIR$/src/main/webapp/wenhua.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/log4j.properties" afterPath="$PROJECT_DIR$/target/classes/log4j.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/spring-mvc.xml" afterPath="$PROJECT_DIR$/target/classes/spring-mvc.xml" />
     </list>
     <ignored path="M1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,31 +180,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="35" column="56" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+            <state relative-caret-position="135">
+              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -126,6 +248,7 @@
         <option value="$PROJECT_DIR$/src/main/webapp/wenhua.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/contact.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/about.html" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -163,7 +286,28 @@
     </option>
   </component>
   <component name="MavenProjectNavigator">
-    <treeState />
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="bnsp Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Profiles" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProfilesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -310,101 +454,39 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="M1" />
+              <option name="myItemId" value="bnsp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="M1" />
+              <option name="myItemId" value="bnsp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="M1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="M1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="M1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="M1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="M1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="M1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="M1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
+              <option name="myItemId" value="bnsp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/work/source/git/bit/bit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/yz_env/node/bin/node" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -1207,11 +1289,12 @@
       <workItem from="1488555049290" duration="4692000" />
       <workItem from="1488719896012" duration="1762000" />
       <workItem from="1488762841546" duration="2323000" />
+      <workItem from="1488783784414" duration="683000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104826000" />
+    <option name="totallyTimeSpent" value="105509000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1240,24 +1323,24 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39968404" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861635" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32232705" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.9559748" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5880503" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20840065" sideWeight="0.48584905" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32861635" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20840065" sideWeight="0.48584905" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20840065" sideWeight="0.5141509" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861635" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5082353" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32232705" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861635" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1351,7 +1434,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
           <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1371,14 +1453,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cn/uuu/service/impl/UserServiceImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cn/uuu/service/UserService.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cn/uuu/controller/UserController.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="175" column="23" selection-start-line="175" selection-start-column="23" selection-end-line="175" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1417,7 +1491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1425,7 +1498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1433,7 +1505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1441,7 +1512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1449,7 +1519,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1457,7 +1526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="19" column="58" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1509,7 +1577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-75">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1551,15 +1618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1573,18 +1631,34 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="35" column="56" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="56" />
+        <state relative-caret-position="150">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/about.html">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+        <state relative-caret-position="105">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
           <folding />
         </state>
       </provider>
@@ -1595,7 +1669,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>M1:war</last-edited>
+          <last-edited>bnsp_war</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bnsp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="bnsp.war">
+      <element id="artifact" artifact-name="bnsp:war exploded" />
+    </root>
+  </artifact>
+</component>
