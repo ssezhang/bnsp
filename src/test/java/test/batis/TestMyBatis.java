@@ -32,7 +32,7 @@ public class TestMyBatis {
 //      userService = (IUserService) ac.getBean("userService");  
 //  }  
   
-    @Test  
+    @TestM1  
     public void test1() {  
          User user = userService.getUserById(1);  
          System.out.println(user.getUsername());  
